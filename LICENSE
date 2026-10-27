@@ -1,0 +1,290 @@
+SPDX-License-Identifier: MIT
+Copyright (c) 2026 ItsNobodyX (BeeLink). All rights reserved.
+
+================================================================================
+ BeeLink - Licence and Copyright Notice
+================================================================================
+
+This document has two parts. Part I is the MIT Licence, which governs the
+source code of BeeLink and is offered to everyone on identical terms. Part II
+is the Copyright and Brand Notice, which governs everything the MIT Licence
+does not: the BeeLink name, the bee mark, the artwork, the interface design and
+the written copy of the application.
+
+Part I is deliberately left in its standard, unmodified form so that BeeLink
+remains genuinely open source and compatible with every other MIT project.
+Part II does not restrict Part I. It states rights that are reserved because
+they were never granted.
+
+
+================================================================================
+ PART I - MIT LICENCE (SOURCE CODE)
+================================================================================
+
+MIT License
+
+Copyright (c) 2026 ItsNobodyX (BeeLink)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+================================================================================
+ PART II - COPYRIGHT AND BRAND NOTICE
+================================================================================
+
+1. SCOPE OF THE MIT GRANT
+--------------------------------------------------------------------------------
+
+1.1  For the purposes of this project, "the Software" licensed under Part I
+     means the source code of BeeLink: index.html, sw.js and
+     manifest.webmanifest, together with any future source files distributed
+     under the same terms.
+
+1.2  The MIT Licence grants broad rights over that source code. It is intended
+     to be, and shall be construed as, a genuine open source grant. Nothing in
+     Part II narrows, conditions or revokes any permission already given in
+     Part I.
+
+1.3  Part II concerns subject matter that Part I does not license: names,
+     marks, logos, illustrations, photographic renders and written copy. Those
+     works are protected independently of the source code and are reserved to
+     the copyright owner.
+
+1.4  Where a file contains both source code and reserved artwork - as
+     index.html does, with its inline SVG illustrations - the code may be
+     reused under Part I, but the artwork may not be extracted and reused
+     apart from BeeLink.
+
+2. COPYRIGHT NOTICE
+--------------------------------------------------------------------------------
+
+     BeeLink
+     Copyright (c) 2026 ItsNobodyX. All rights reserved.
+
+     BeeLink name and bee mark: unregistered trade mark of ItsNobodyX.
+     Application icons, illustrations, interface design and written copy:
+     original works authored by ItsNobodyX.
+
+2.1  Copyright and related rights subsist in the Software and in the BeeLink
+     brand assets from the moment of creation, without registration, formality
+     or notice, by operation of the international treaties listed in section 9
+     and of the national laws that implement them.
+
+2.2  This notice constitutes copyright management information. Removing,
+     altering, concealing or falsifying it, or distributing a work knowing that
+     it has been so altered, is itself a separate violation of law in several
+     jurisdictions, including under 17 U.S.C. 1202 in the United States.
+
+2.3  The absence of a notice on any individual file does not waive any right
+     in that file.
+
+3. RESERVED BRAND AND MEDIA ASSETS
+--------------------------------------------------------------------------------
+
+3.1  The following are reserved and are not licensed for reuse outside
+     BeeLink:
+
+     (a) the name "BeeLink" and the tagline "Be Simple with BeeLink.";
+     (b) the bee mark, the application icons (icon.svg, icon-192.png,
+         icon-512.png) and any derivative of them;
+     (c) the illustrations and inline SVG artwork in the interface;
+     (d) the social sharing card (og-image.png), the banner (banner.png) and
+         the screenshot (screenshot.png);
+     (e) the written copy of the About Us, Terms of Use, Privacy Policy,
+         Copyright Notice and Developer pages.
+
+3.2  No trade mark or service mark licence is granted, whether express,
+     implied, by estoppel or otherwise.
+
+3.3  No right of endorsement or sponsorship is granted. A modified or
+     redistributed version of the Software must not be presented in a way that
+     suggests it is BeeLink, is published by ItsNobodyX, or is approved by
+     ItsNobodyX.
+
+4. MORAL RIGHTS
+--------------------------------------------------------------------------------
+
+4.1  The author asserts the moral rights of authorship and integrity in the
+     Software and in the brand assets, including the right to be identified as
+     the author and the right to object to derogatory treatment.
+
+4.2  These rights are asserted under Article 6bis of the Berne Convention, and
+     in particular under section 57 of the Copyright Act, 1957 (India), the
+     moral rights provisions of the member states of the European Union and the
+     United Kingdom, and the corresponding provisions of the Visual Artists
+     Rights Act, 17 U.S.C. 106A (United States).
+
+4.3  Where moral rights cannot be waived, nothing in Part I shall be read as a
+     waiver of them. Where they can be waived, they are not waived except to
+     the minimum extent necessary to permit use of the Software under Part I.
+
+5. PERMITTED USE
+--------------------------------------------------------------------------------
+
+     You may, without asking permission:
+
+     (a) use BeeLink to send files, for personal or commercial purposes, free
+         of charge and without limit;
+     (b) copy, modify, merge, publish, distribute, sublicense and sell copies
+         of the source code, subject only to Part I;
+     (c) study, audit and describe how the Software works;
+     (d) link to BeeLink, quote short passages with attribution, and reference
+         it in articles, reviews and documentation;
+     (e) run your own instance, including a rebranded one, provided the
+         reserved brand assets in section 3 are replaced with your own.
+
+6. PROHIBITED USE
+--------------------------------------------------------------------------------
+
+     Without prior written permission, you may not:
+
+     (a) use the BeeLink name or bee mark as the name or mark of another
+         product, service, application, package, repository or company;
+     (b) extract the artwork, icons or written copy for use in another
+         product, template, icon set, design system or publication;
+     (c) present BeeLink, or a modified version of it, as your own work;
+     (d) resell access to BeeLink as a hosted service under the BeeLink name;
+     (e) remove or obscure the copyright, licence or attribution notices;
+     (f) use the Software to infringe the rights of others, to distribute
+         malware, or to break any applicable law.
+
+7. THIRD-PARTY COMPONENTS
+--------------------------------------------------------------------------------
+
+7.1  BeeLink uses PeerJS, Copyright (c) the PeerJS contributors, distributed
+     under the MIT Licence. Its terms and notice remain with its authors.
+
+7.2  WebRTC, the Service Worker API, the Web App Manifest and all other
+     browser interfaces used by BeeLink are governed by the terms of the
+     browser vendor and the relevant standards bodies.
+
+7.3  Nothing in this document claims ownership of any third-party component.
+
+8. NOTICE OF INFRINGEMENT
+--------------------------------------------------------------------------------
+
+8.1  If you believe that material associated with BeeLink infringes your
+     rights, send a notice to the copyright owner through
+     https://github.com/ItsNobodyX containing:
+
+     (a) identification of the work you claim is infringed;
+     (b) the location of the allegedly infringing material;
+     (c) your name, address and contact details;
+     (d) a statement of your good-faith belief that the use is unauthorised;
+     (e) a statement that the information is accurate and that you are the
+         rights holder or authorised to act for them;
+     (f) your physical or electronic signature.
+
+8.2  Notices meeting the requirements of 17 U.S.C. 512(c)(3) will be handled
+     under the notice-and-takedown procedure of the Digital Millennium
+     Copyright Act. Equivalent notices under the Information Technology Act,
+     2000 and the Information Technology (Intermediary Guidelines and Digital
+     Media Ethics Code) Rules, 2021 (India), and under Articles 14 to 17 of
+     Directive 2000/31/EC and the Digital Services Act, Regulation (EU)
+     2022/2065, will be handled in the same manner.
+
+8.3  Counter-notices and misrepresentation claims will be assessed on the same
+     basis. Knowingly filing a false notice may itself give rise to liability.
+
+9. INTERNATIONAL PROTECTION AND GOVERNING STATUTES
+--------------------------------------------------------------------------------
+
+9.1  BeeLink is protected in every state party to the Berne Convention for the
+     Protection of Literary and Artistic Works, the WIPO Copyright Treaty
+     (1996) and the Agreement on Trade-Related Aspects of Intellectual
+     Property Rights (TRIPS). No registration is required for that protection
+     to subsist.
+
+9.2  INDIA. Protected under the Copyright Act, 1957 (Act 14 of 1957), as
+     amended, including section 13 (subsistence of copyright), section 14
+     (exclusive rights), section 51 (infringement), section 57 (author's
+     special rights) and section 63 (offences). The BeeLink name and mark are
+     protected under the Trade Marks Act, 1999. Electronic distribution and
+     intermediaries are addressed by the Information Technology Act, 2000 and
+     the rules made under it. Civil remedies include injunction, damages,
+     account of profits, delivery up and seizure; section 63 provides for
+     imprisonment of not less than six months, extendable to three years, and
+     a fine of not less than fifty thousand rupees, extendable to two lakh
+     rupees.
+
+9.3  UNITED STATES. Protected under Title 17 of the United States Code,
+     including sections 106 (exclusive rights), 501 (infringement), 504
+     (damages, including statutory damages of up to 150,000 US dollars per
+     work for wilful infringement), 512 (notice and takedown) and 1202
+     (integrity of copyright management information). The BeeLink name and mark
+     are protected under the Lanham Act, 15 U.S.C. 1051 et seq., including
+     section 43(a) on false designation of origin.
+
+9.4  EUROPEAN UNION AND EEA. Protected under Directive 2001/29/EC on the
+     harmonisation of copyright and related rights, Directive (EU) 2019/790 on
+     copyright in the digital single market, and the implementing legislation
+     of each member state, together with the case law of the Court of Justice
+     of the European Union. The BeeLink name and mark are protected under
+     Directive (EU) 2015/2436 and Regulation (EU) 2017/1001, and through the
+     European Union Intellectual Property Office.
+
+9.5  UNITED KINGDOM. Protected under the Copyright, Designs and Patents Act
+     1988, including the moral rights provisions in Chapter IV, and under the
+     Trade Marks Act 1994.
+
+9.6  OTHER JURISDICTIONS. Protection is claimed under the corresponding
+     copyright, trade mark, unfair competition and database laws of every other
+     country in which BeeLink is made available, in each case to the fullest
+     extent permitted by that law.
+
+9.7  Nothing in this notice excludes any right or remedy available under the
+     mandatory law of the country in which a user resides.
+
+10. REMEDIES
+--------------------------------------------------------------------------------
+
+10.1  Unauthorised use of the reserved assets in section 3 may be pursued by
+      all civil and criminal remedies available in the relevant jurisdiction,
+      including injunctive relief, damages, an account of profits, delivery up
+      or destruction of infringing material, and costs.
+
+10.2  The owner may also pursue remedies for passing off, unfair competition
+      and false designation of origin where a modified version is presented in
+      a way that confuses users as to its origin.
+
+11. SEVERABILITY, NO WAIVER, ENTIRE NOTICE
+--------------------------------------------------------------------------------
+
+11.1  If any provision of Part II is held unenforceable in a jurisdiction, it
+      shall be limited or severed to the minimum extent necessary, and the
+      remaining provisions shall continue in full force.
+
+11.2  Failure to enforce any provision on one occasion is not a waiver of the
+      right to enforce it on any later occasion.
+
+11.3  Part I and Part II together constitute the entire licence and notice for
+      BeeLink. They replace any earlier statement on the same subject.
+
+12. CONTACT
+--------------------------------------------------------------------------------
+
+      ItsNobodyX
+      https://github.com/ItsNobodyX
+
+      For permission to use the reserved brand assets, or for any licensing
+      question, open an issue or contact the author through the profile above.
+
+================================================================================
+ Be Simple with BeeLink.
+================================================================================
